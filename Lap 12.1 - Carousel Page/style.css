@@ -1,0 +1,10 @@
+.carousel-inner {
+  height: 800px;
+
+}
+
+.carousel-caption {
+  position: absolute;
+  right: 15%;
+  bottom: 20rem !important;
+}
